@@ -2,4 +2,6 @@
    
    2. [Prompt inžinerija ir RUKA principas](https://gamma.app/docs/1102-DI-Prompt-RUKA-aj5hwxq0u6ij9b4)
 
-   👉 3. [Programavimo aplinka](https://gamma.app/docs/Programavimo-aplinka-4tcm4r2hiajl4mm)
+   3. [Programavimo aplinka](https://gamma.app/docs/Programavimo-aplinka-4tcm4r2hiajl4mm)
+
+   👉 8. [Rūšiavimo algoritmai](https://gamma.app/docs/08-Rusiavimo-algoritmai-qlmovmlbzhxeadt) 
