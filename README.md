@@ -4,9 +4,12 @@
 
 3. [Programavimo aplinka](https://gamma.app/docs/Programavimo-aplinka-4tcm4r2hiajl4mm)
 
+_
 
+8. [Rūšiavimo algoritmai](https://gamma.app/docs/08-Rusiavimo-algoritmai-qlmovmlbzhxeadt)
+   
+   [Rūšiavimo algoritmai (PRAKTIKA)](https://gamma.app/docs/1108m-Rusiavimo-algoritmai-praktika-o347q4dcimnabew)
 
-   [Rūšiavimo algoritmai](https://gamma.app/docs/08-Rusiavimo-algoritmai-qlmovmlbzhxeadt) 
+_
 
-
-   👉 8. [Rūšiavimo algoritmai (PRAKTIKA)](https://gamma.app/docs/1108m-Rusiavimo-algoritmai-praktika-o347q4dcimnabew)
+👉 14. [Darbas su tekstiniais duomenų srautais](https://gamma.app/docs/1114m-Darbas-su-tekstiniais-duomenu-srautais-i9ia2ijnzgcky35)
